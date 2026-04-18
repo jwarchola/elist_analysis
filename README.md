@@ -12,9 +12,9 @@ Sales trends analysis for an e-commerce company
 text
 
 ## Sales Trends
-<img width="1875" height="1114" alt="monthlySalesRevenue" src="https://github.com/user-attachments/assets/84df7540-662c-4826-a9d9-85022e57ba72" />
+<img width="1000" alt="monthlySalesRevenue" src="https://github.com/user-attachments/assets/84df7540-662c-4826-a9d9-85022e57ba72" />
 <img width="492" height="314" alt="monthlySalesGrowthRates" src="https://github.com/user-attachments/assets/f07aa4c0-47e4-47f6-81b8-181a9a863d52" />
-<img width="1875" height="1114" alt="quarterlySalesRevenue" src="https://github.com/user-attachments/assets/dbaedc0c-7d4e-4d99-8b76-1a3326a140e4" />
+<img width="1000" alt="quarterlySalesRevenue" src="https://github.com/user-attachments/assets/dbaedc0c-7d4e-4d99-8b76-1a3326a140e4" />
 
 
 
